@@ -93,7 +93,7 @@ class _PlayState extends State<Play> {
                 children: [Icon(Icons.thumb_up_alt_outlined), Text("20")],
               ),
               Column(
-                children: [Icon(Icons.thumb_up_alt_outlined), Text("200")],
+                children: [Icon(Icons.thumb_down_alt_outlined), Text("200")],
               ),   Column(
                 children: [Icon(Icons.ios_share), Text("Share")],
               ),   Column(
