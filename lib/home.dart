@@ -109,7 +109,7 @@ class _YouTubeState extends State<YouTube> {
                       "assets/download.jfif"),
                 ),
                 title: Text(
-                  "The CardBoard Plane",
+                  "The Paper Butterfly",
                   style: TextStyle(color: Colors.white),
                 ),
                 subtitle: Text(

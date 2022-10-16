@@ -79,7 +79,7 @@ class _PlayState extends State<Play> {
               backgroundImage: AssetImage("assets/download.jfif"),
             ),
             title: Text(
-              "The CardBoard Plane",
+              "The Paper Butterfy",
               style: TextStyle(color: Colors.white),
             ),
             subtitle: Text(
@@ -118,7 +118,7 @@ class _PlayState extends State<Play> {
             children: [
               Positioned(
                   child: Image.asset(
-                    "assets/hnC4ti3zrvk-HD.jpg",
+                    "assets/JsH1CEIMuYo-HD.jpg",
                     fit: BoxFit.cover,
                     width: 400,
                   )),
@@ -131,7 +131,7 @@ class _PlayState extends State<Play> {
                     color: Colors.black,
                     child: Center(
                       child: Text(
-                        "58:45",
+                        "1:45",
                         style: TextStyle(color: Colors.white),
                       ),
                     ),
@@ -141,14 +141,14 @@ class _PlayState extends State<Play> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: AssetImage(
-                  "assets/jLiT8Du3Tbo-HD (2).jpg"),
+                  "assets/Saregama_logo.png"),
             ),
             title: Text(
-              "How to be the happiest person!!",
+              "Kappa Teaser",
               style: TextStyle(color: Colors.white),
             ),
             subtitle: Text(
-              "Lana Blakely - 2M views - 5months ago",
+              "Saregama - 2M views - 1 hour ago",
               style: TextStyle(color: Colors.white),
             ),
             trailing: IconButton(
@@ -164,7 +164,7 @@ class _PlayState extends State<Play> {
             children: [
               Positioned(
                   child: Image.asset(
-                    "assets/EUEZ-QUV8oQ-HD.jpg",
+                    "assets/NvtMt_DtFrQ-HD.jpg",
                     fit: BoxFit.cover,
                     width: 400,
                   )),
@@ -187,14 +187,14 @@ class _PlayState extends State<Play> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: AssetImage(
-                  "assets/images (1).jfif"),
+                  "assets/c823e53b3a1a7b0d36a9.png"),
             ),
             title: Text(
-              "Serial Killers",
+              " Semantics widget of the week",
               style: TextStyle(color: Colors.white),
             ),
             subtitle: Text(
-              "Nissaram! - 45k views - 2 year ago",
+              "Flutter - 45k views - 2 year ago",
               style: TextStyle(color: Colors.white),
             ),
             trailing: IconButton(
@@ -210,7 +210,7 @@ class _PlayState extends State<Play> {
             children: [
               Positioned(
                   child: Image.asset(
-                    "assets/OM1Y8LBHraY-HD.jpg",
+                    "assets/L_bYqD-Ituo-HD.jpg",
                     fit: BoxFit.cover,
                     width: 400,
                   )),
@@ -233,14 +233,14 @@ class _PlayState extends State<Play> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: AssetImage(
-                  "assets/bc5d0920db479b509205b5db4b09908e.jpg"),
+                  "assets/download (2).jfif"),
             ),
             title: Text(
-              "Bharati Apartments Part-3",
+              "Manali Day - Two",
               style: TextStyle(color: Colors.white),
             ),
             subtitle: Text(
-              "Karikku - 3M views - 1 week ago",
+              "Yazin Muhammed - 3M views - 1 week ago",
               style: TextStyle(color: Colors.white),
             ),
             trailing: IconButton(
@@ -256,7 +256,7 @@ class _PlayState extends State<Play> {
             children: [
               Positioned(
                   child: Image.asset(
-                    "assets/HRLJS1TyHCg-HD.jpg",
+                    "assets/sszRZDI6kH8-HD.jpg",
                     fit: BoxFit.cover,
                     width: 400,
                   )),
@@ -279,14 +279,14 @@ class _PlayState extends State<Play> {
           ListTile(
             leading: CircleAvatar(
               backgroundImage: AssetImage(
-                  "assets/download.png"),
+                  "assets/download (2).jfif"),
             ),
             title: Text(
-              "Mr.Beans Pizza",
+              "The Great Himalayas",
               style: TextStyle(color: Colors.white),
             ),
             subtitle: Text(
-              "Mr Bean - 1M views - 2months ago",
+              "The Road Tripper - 1.5M views - 7months ago",
               style: TextStyle(color: Colors.white),
             ),
             trailing: IconButton(
