@@ -1,4 +1,4 @@
-# youtube_ui
+# YouTube App UI Clone
 
 YouTube UI Sample Assignment
 ![1807a5d4-9f65-4545-a3fe-d06f6e7196b2](https://user-images.githubusercontent.com/87460435/200132227-76c5481c-060e-4dab-84ca-f03643074c54.jpg)
